@@ -1,0 +1,72 @@
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'U1:footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM'.
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW1 symbol association from  to /c0703e7b-37cc-48e8-b629-fe254b0fda71.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'micropad.kicad_sch'.
+Add net GND.
+Connected SW1 pin 2 to GND.
+Add net Net-(U1-PA6_A10_D10_MOSI).
+Connected SW1 pin 1 to Net-(U1-PA6_A10_D10_MOSI).
+Updated SW1 unit metadata.
+Added SW2 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW2 symbol association from  to /eddd005a-d25d-48a9-b360-2ddff85b0ba3.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'micropad.kicad_sch'.
+Connected SW2 pin 2 to GND.
+Add net Net-(U1-PA5_A9_D9_MISO).
+Connected SW2 pin 1 to Net-(U1-PA5_A9_D9_MISO).
+Updated SW2 unit metadata.
+Added SW3 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW3.
+Changed SW3 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Updated SW3 symbol association from  to /40cb792b-d17f-4fe6-a32f-4bc3b070408f.
+Updated SW3 fields.
+Updated SW3 sheetname to '/'.
+Updated SW3 sheetfile to 'micropad.kicad_sch'.
+Connected SW3 pin 2 to GND.
+Add net Net-(U1-PA7_A8_D8_SCK).
+Connected SW3 pin 1 to Net-(U1-PA7_A8_D8_SCK).
+Updated SW3 unit metadata.
+Added SW1 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Added U1 (footprint 'footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM').
+Changed >NAME reference designator to U1.
+Changed U1 value from &gt;VALUE to MOUDLE-SEEEDUINO-XIAO.
+Updated U1 symbol association from  to /6e8f1534-41dd-4255-9991-db8438410296.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'micropad.kicad_sch'.
+Add net unconnected-(U1-PA10_A2_D2-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PA10_A2_D2-Pad3).
+Connected U1 pin 9 to Net-(U1-PA7_A8_D8_SCK).
+Add net unconnected-(U1-3V3-Pad12).
+Connected U1 pin 12 to unconnected-(U1-3V3-Pad12).
+Connected U1 pin 13 to GND.
+Add net unconnected-(U1-PA8_A4_D4_SDA-Pad5).
+Connected U1 pin 5 to unconnected-(U1-PA8_A4_D4_SDA-Pad5).
+Add net unconnected-(U1-5V-Pad14).
+Connected U1 pin 14 to unconnected-(U1-5V-Pad14).
+Connected U1 pin 11 to Net-(U1-PA6_A10_D10_MOSI).
+Add net unconnected-(U1-PA4_A1_D1-Pad2).
+Connected U1 pin 2 to unconnected-(U1-PA4_A1_D1-Pad2).
+Connected U1 pin 10 to Net-(U1-PA5_A9_D9_MISO).
+Add net unconnected-(U1-PA9_A5_D5_SCL-Pad6).
+Connected U1 pin 6 to unconnected-(U1-PA9_A5_D5_SCL-Pad6).
+Add net unconnected-(U1-PB08_A6_D6_TX-Pad7).
+Connected U1 pin 7 to unconnected-(U1-PB08_A6_D6_TX-Pad7).
+Add net unconnected-(U1-PB09_A7_D7_RX-Pad8).
+Connected U1 pin 8 to unconnected-(U1-PB09_A7_D7_RX-Pad8).
+Add net unconnected-(U1-PA11_A3_D3-Pad4).
+Connected U1 pin 4 to unconnected-(U1-PA11_A3_D3-Pad4).
+Add net unconnected-(U1-PA02_A0_D0-Pad1).
+Connected U1 pin 1 to unconnected-(U1-PA02_A0_D0-Pad1).
+Updated U1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
