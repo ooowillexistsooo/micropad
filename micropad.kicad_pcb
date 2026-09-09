@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbils/")
 		)
 	)
 	(footprint "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"

@@ -10,7 +10,10 @@ the silly little micropad
 - 4 keycaps
 - pcb <3 ofc
 - the board attatchment thing
-- the oled
+- [the complete bom](production/bom.csv)
 
-
-## not complete yet! im still deciding what to do with the firmware <3
+## where the things are
+- the gerbers are in production/gerbils
+- firmware is in production/firmware (obviously)
+- the print file is production/3d-print-this.stl
+- the step file is production/hackpad-XD.step (i hope)
