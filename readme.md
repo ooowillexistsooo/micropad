@@ -14,6 +14,7 @@ the silly little micropad
 
 ## where the things are
 - the gerbers are in production/gerbils
+- gerber zip is production/gerbils/gerbils.zip
 - firmware is in production/firmware (obviously)
-- the print file is production/3d-print-this.stl
-- the step file is production/hackpad-XD.step (i hope)
+- the print file is production/cad/3d-print-this.stl
+- the step file is production/cad/hackpad-XD.step (i hope)
